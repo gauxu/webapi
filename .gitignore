@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-external.webapi.client
-clientportal.gw
+
+*.code*
 kabucom
 interactiveBrokers
